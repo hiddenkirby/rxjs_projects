@@ -17,5 +17,6 @@
   },
   "homepage": "https://github.com/hiddenkirby/rxjs_projects#readme",
   "dependencies": {
+    "rxjs": "^5.5.7"
   }
 }
